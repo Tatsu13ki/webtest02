@@ -1,0 +1,291 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{text-align: center }
+
+html{max-width: 100%;
+	
+}
+
+body {color: #FFFFFF ;
+    background:  #D68EF1;
+
+margin-right: auto;
+margin-left : auto;
+max-width: 100%;
+
+}
+
+.riroudo{
+    text-align : center ; }
+	
+
+
+
+
+
+.box{
+	
+	top :auto;
+		bottom: auto;
+  width: 1150px;
+  height: 900px;
+ 
+	margin-left: auto;
+    margin-right: auto;
+	position:relative;
+max-width: 100%;
+
+	
+}
+
+
+.aaa{
+ 
+
+  position: absolute;
+  top:0px;
+  left: 0px;
+	max-width: 100%;
+height: auto;
+	
+}
+
+#onpu11{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu1{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+
+.bbb{
+  
+
+  position: absolute;
+  top:0px;
+  left: 300px;
+	max-width: 100%;
+height: auto;
+}
+
+#onpu22{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+
+#onpu2{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+.ccc{
+  
+  position: absolute;
+  top:0px;
+  left: 600px;
+	max-width: 100%;
+height: auto;
+}
+
+#onpu33{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+
+#onpu3{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+.ddd{
+  
+
+  position: absolute;
+  top:0px;
+  left: 900px;
+	max-width: 100%;
+height: auto;
+}
+
+#onpu44{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu4{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+
+
+.eee{
+  
+
+  position: absolute;
+  top:440px;
+  left: 0px;
+	max-width: 100%;
+height: auto;
+}
+
+
+#onpu55{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+
+#onpu5{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+.fff{
+  
+
+  position: absolute;
+  top:440px;
+  left: 300px;
+	max-width: 100%;
+height: auto;
+	
+}
+#onpu66{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu66{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu6{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+.ggg{
+  
+  position: absolute;
+  top:440px;
+  left: 600px;
+}
+
+#onpu77{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu7{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+.hhh{
+  
+
+  position: absolute;
+  top:440px;
+  left: 900px;
+}
+#onpu88{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 120px;
+
+}
+#onpu8{
+    position: absolute;
+    text-align : center;
+    top: 380px;
+    left: 60px;
+
+}
+
+body{
+  background: #FFCA00;
+  -webkit-animation:colour 20s linear infinite;
+    -moz-animation:colour 20s linear infinite;
+  
+}
+@-webkit-keyframes colour{
+    0%{
+        background: #F5B813
+    }
+
+    40%{
+        background:   #FF8587
+    }
+
+    80%{
+        background:  #F971A1
+    }
+
+    100%{
+        background: #F5B813
+    }
+
+}
+
+@-moz-keyframes colour{
+    0%{
+        background:#F5B813
+    }
+
+    40%{
+        background:#FF8587
+    }
+
+    80%{
+        background:#F971A1
+    }
+
+    100%{
+        background:#F5B813
+    }
+
+}
